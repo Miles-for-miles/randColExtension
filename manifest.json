@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "Random Colors",
+	"description": "Generates a random color.",
+	"version": "1.0",
+	"action": {
+		"default_popup": "index.html",
+		"default_icon": "exIcon.png"
+	}
+}
